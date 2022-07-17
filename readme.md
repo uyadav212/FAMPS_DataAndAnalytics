@@ -11,7 +11,14 @@ In this paper, we want to understand people’s perception towards food with res
 FAMPS - https://famps.herokuapp.com/
 
 **Structure of Rep**
----
+--Data
+------124Response_Data_Consolidated.pdf
+------Menu_Data_Online_Source.pdf
+------Question_Asked.pdf
+--Results
+------Analytics_webpage_124Response.pdf
+------Conditional_Probability_Representation.pdf
+
 For any questions or clarifications, please contact: 
 - Hem Chandra Joshi [hemjoshi745@gmail.com]
 - Biplav Srivastava [biplav.srivastava@gmail.com]
